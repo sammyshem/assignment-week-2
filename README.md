@@ -1,1 +1,1 @@
-# assignment-week-2
+# assignments
